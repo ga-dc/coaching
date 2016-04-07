@@ -1,3 +1,7 @@
-# coaching
-DC Coaching repository
-Jon & Phil
+Teaching Techniques
+# Checks for Understanding
+## Gesture
+
+
+Glossary
+#Checks for Understanding
