@@ -21,14 +21,19 @@ In addition to preparing your content and being a total Subject Matter Expert (S
 Think back to when you were a student...
 ##Prepping your class 
 Thinking about the number of students that you have, think how every section is going to be implemented. When executing certain components, 
-##
+##Segmentation
+Segmentation is when you break down an exercise into smaller digestible parts. Exercises and activities may take a full hour, but you don't want to let them loose. 
 ##Framing Directions
 Framing Directions is when an instructor sets parameters of an exercise or activity. 
 - Think of the 5 W's (Who, what, where, when, why, how)
 - Instructor provides information on: 1) timeframe, 2) deliverable, 3) who to work with, 4) any relevant information that students should know when working
+##Meta-narrative
+Meta-narrative is when you narrate the flow of your class. In addition to explaining instructions 
+For example, when you ask a question, instead of jumping to a question, you 
 
 #Glossary
 ##Checks for Understanding (CFU)
 Checks for Understanding is a strategic process that occurs during a lesson, where an instructor collects data on how well students understand a component in the lesson in a time-efficient manner. 
-
+##Top-heavy/Student-directed Lecture
+Top-heavy lectures are content-heavy and passive. An instructor stands in front of the class and 
 ##
