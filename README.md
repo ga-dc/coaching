@@ -1,6 +1,6 @@
 #Teaching Techniques
 ##I'm over here
-As time wraps up on your class activity/exercise, Provide a visual cue to indicate that it's time for the class to get together  Raise your hand and identify 
+As your class activity/exercise wraps, provide a visual cue to indicate that it's time for the class to come together  Raise your hand and start saying "Everyone, let's come back together". There's no need to raise your voice. The goal is to get everyone's attention visually rather than audibly. 
 ##Clap for Attention
 There are two variations of doing this. 1) Clap your hands in a pattern in orer to get the students attention. Hopefully, students will respond by mimicking your pattern. Continue doing various patterns until all students have your attention. 2) 
 ##Gesture
