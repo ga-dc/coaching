@@ -14,6 +14,12 @@ Engage
 ##Stretch It Out
 ##Talk and turn
 
+#Question Types
+##In-class Factual
+##Out-of-class Factual
+##Convergent
+##Divergent
+##Affective
 
 #Awesome Lesson Planning - Things to Include
 In addition to preparing your content and being a total Subject Matter Expert (SME), here's a couple of other factors that you can definitely factor 
